@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/pWIJjTuQp6H6QIuJ+LnVD9BN0eeTywsXccj5Hirg42MdKl2c/pG7eF8IGidkxOiZ63/0Rb/8chTiBxTOVZUw==",
+  "dgSpecHash": "Ot/X9WwTVev44lc85oyB54GxPGAaj6hIv5vEzrBG/vg3Vi0ATN4yPN9uHks9nzjSKOAMF6c9FLbMb+9HVxyfFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milena\\Documents\\Visual Studio 2015\\Projects\\junior-analyst\\AvaliazaoTop\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\Milena\\Documents\\Visual Studio 2015\\Projects\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milena\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Milena\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

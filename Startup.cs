@@ -18,8 +18,12 @@ namespace TodoApi
 
         public IConfiguration Configuration { get; }
 
+        //readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
+
             services.AddDbContext<TodoContext>(opt =>
                opt.UseInMemoryDatabase("TodoList"));
             services.AddControllers();
@@ -37,6 +41,8 @@ namespace TodoApi
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors(option => option.AllowAnyOrigin());
 
             app.UseEndpoints(endpoints =>
             {

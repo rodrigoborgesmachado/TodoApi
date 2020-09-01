@@ -8469,11 +8469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milena\\Documents\\Visual Studio 2015\\Projects\\junior-analyst\\AvaliazaoTop\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Milena\\Documents\\Visual Studio 2015\\Projects\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Milena\\Documents\\Visual Studio 2015\\Projects\\junior-analyst\\AvaliazaoTop\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\Milena\\Documents\\Visual Studio 2015\\Projects\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Milena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milena\\Documents\\Visual Studio 2015\\Projects\\junior-analyst\\AvaliazaoTop\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\Milena\\Documents\\Visual Studio 2015\\Projects\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milena\\AppData\\Roaming\\NuGet\\NuGet.Config"
